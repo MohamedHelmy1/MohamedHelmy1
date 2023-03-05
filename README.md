@@ -12,8 +12,8 @@
 Common Languages
  </h2>
 <p align="center">
-  <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">
-  <img alt = "Dart" src="https://img.shields.io/badge/-Dart-informational?style=for-the-badge&logo=Dart&color=0dc8ae&logoColor=white">
+  <img alt = "C#" src="[https://img.shields.io/badge/-Python-informationa](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)l?style=for-the-badge&logo=Python&logoColor=white">
+  <img alt = "SqlServer" src="https://img.shields.io/badge/-Dart-informational?style=for-the-badge&logo=Dart&color=0dc8ae&logoColor=white">
 </p>
 <p align="center">
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedHelmy1&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
